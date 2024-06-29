@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OREBI Ecommerce site
 
 ## screenshot
@@ -32,3 +33,6 @@
 ### Author
 
 - [Kumara Gurubaran M](https://github.com/Kumara-Gurubaran-M)
+=======
+# Mario-Fashion-Site
+>>>>>>> c176c75f18164aa3cdbaba41e350ccc4003e2e2c
